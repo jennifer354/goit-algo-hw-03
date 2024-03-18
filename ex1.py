@@ -12,4 +12,4 @@ now_date = datetime.now()
 #Задаєм параметри функціі
 days = get_days_from_today (now_date, date)
 #Виносимо результат
-print(f'get_days_from_today,{my_date} {days}  days')
+print(f'get_days_from_today,{my_date} is {days}days')
